@@ -7,5 +7,4 @@ so that, I can contribute in saving lives.
 patients when needed.
 
 3) As a doctor i want to check the blood group ,so that i can  give specific treatment to the patient.
-                         
-			 thankyou
+                         yes i am successful 
