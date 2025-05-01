@@ -1,0 +1,9 @@
+Blood Bank management system
+
+1)As a donor, I want to schedule an appointment to donate blood 
+so that, I can contribute in saving lives.
+
+2)As a hospital admin, I want to have details of blood donors ,so that i can arrange for
+patients when needed.
+
+3) As a doctor i want to check the blood group ,so that i can  give specific treatment to the patient.
